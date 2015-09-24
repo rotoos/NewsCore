@@ -1,1 +1,2 @@
 # NewsCore
+agakt
